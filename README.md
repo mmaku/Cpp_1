@@ -3,7 +3,7 @@ Cpp_1
 
 First term of C++ course at Math Institute,  University of Wrocław
 
-COURSE SYLLABUS 
+COURSE SYLLABUS  (in Polish)
 ===============
 
 1. Algorytmiczne rozwiązywanie problemów na przykładzie algorytmu Euklidesa. Stan i przepływ sterowania. Formalizacja algorytmu, zapis w języku formalnym i wizualizacja za pomocą schematu blokowego.
