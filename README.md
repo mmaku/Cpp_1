@@ -1,7 +1,7 @@
 Cpp_1
 =====
 
-First term of C++ course at Math Institute,  University of Wrocław
+Projects that I've done during first term of C++ course at Math Institute, University of Wrocław
 
 COURSE SYLLABUS  (in Polish)
 ===============
